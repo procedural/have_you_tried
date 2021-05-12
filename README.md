@@ -1,1 +1,3 @@
-# have_you_tried
+# Have you tried...
+
+* ...uninstalling OBS?
