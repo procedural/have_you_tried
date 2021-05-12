@@ -1,3 +1,3 @@
 # Have you tried...
 
-* ...uninstalling OBS?
+* ...uninstalling OBS? (May 2021: `C:/ProgramData/obs-studio-hook/graphics-hook64.dll`)
